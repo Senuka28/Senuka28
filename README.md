@@ -53,6 +53,11 @@ APIs, SDLC, Full-Stack, OOP, Unit/Integration Testing, CI/CD, Debugging, Agile, 
 
 ---
 
+### 🚑 In the Works: Personal Electronic Health Record Management Platform 
+**Flask · JavaScript · HTML/CSS · PostgreSQL · OpenAI API**
+
+---
+
 ## 🎨 More About Me
 - 🎹 I play the piano and violin
 - 🎾 Tennis player

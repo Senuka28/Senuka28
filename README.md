@@ -57,6 +57,7 @@ APIs, SDLC, Full-Stack, OOP, Unit/Integration Testing, CI/CD, Debugging, Agile, 
 - 🎹 I play the piano and violin
 - 🎾 Tennis player
 - ⚙️ Member of Theta Tau Professional Engineering Fraternity
+- 🍵 🥒 Matcha and cucumber enthusiast
 
 ---
 
